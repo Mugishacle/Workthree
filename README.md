@@ -1,6 +1,6 @@
 # Generate Password
 
-<img src="assets/images/password-challenge.png" alt="Image of my generator with some code as a teaser" width="500">
+
 
 # Application Process
 When you click the the generate password button. A series of prompts appear. Once proper information is submitted by the user a password of valid 
@@ -20,6 +20,6 @@ I WANT to randomly generate a password that meets certain criteria
 SO THAT I can create a strong password that provides greater security
 ```
 
-# Password Random Generator 
+# Links
 Github application: https://github.com/Mugishacle/Workthree.git
 Github repository: https://github.com/Mugishacle/Workthree.git
