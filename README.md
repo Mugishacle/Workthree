@@ -21,5 +21,5 @@ SO THAT I can create a strong password that provides greater security
 ```
 
 # Links
-Github application: https://github.com/Mugishacle/Workthree.git
+Github application: https://mugishacle.github.io/workthree/
 Github repository: https://github.com/Mugishacle/Workthree.git
